@@ -152,6 +152,15 @@
 
 @media screen and (max-width: 600px) {
 
+    .banner {
+        width: 100%;
+        height: 100vh;
+        background-image: linear-gradient(to right, #31308b, #1e378a);
+        background-size: cover;
+        background-position: center;
+    }
+
+
     .navbar {
         width: 85%;
         margin: auto;
@@ -179,7 +188,7 @@
     }
 
     .navbar ul {
-        margin-left: 200px;
+        margin-left: 180px;
     }
 
     .navbar ul li {
@@ -222,19 +231,27 @@
 
 
 
-
+    .content {
+        width: 100%;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        text-align: center;
+        color: #fff;
+    }
 
 
 
 
 
     .content h1 {
-        font-size: 30px;
+        font-size: 28px;
         margin-top: 10px;
     }
 
     .content p {
-        font-size: 12px;
+        font-size: 10px;
+        font-weight: 500;
         line-height: 20px;
     }
 
@@ -508,12 +525,12 @@
     .feature-box {
         background-color: #fff;
         font-size: 1.5rem;
-        padding: 1rem;
-        height: 290px;
+        padding: 3rem;
+        height: 310px;
         margin: -25px;
         /* max-width: 120rem; */
-        padding-left: 10px;
-        padding-right: 10px;
+        padding-left: 8px;
+        padding-right: 8px;
         border-radius: 10px;
         box-shadow: 0 1.5rem 4rem rgba(black, .15);
         border: 2px solid #dee2e6;
@@ -535,8 +552,8 @@
 
     .section-features {
         padding: 100px 0;
-        margin-left: 50px;
-        margin-right: 50px;
+        margin-left: 43px;
+        margin-right: 43px;
         background-color: #fff;
     }
 
@@ -635,11 +652,11 @@
     }
 
     .feat-content-box {
-        width: 70%;
+        width: 90%;
     }
 
     .feat-heading {
-        font-size: 2rem;
+        font-size: 1.5rem;
         line-height: 2rem;
         margin-bottom: 2rem;
         color: #0d1929;
@@ -900,8 +917,8 @@
     }
 
     .section-1 {
-        margin-right: 60px;
-        margin-left: 30px;
+        /* margin-right: 60px; */
+        margin-left: -15px;
         margin-bottom: -40px;
         width: 320px;
     }
@@ -940,7 +957,7 @@
         border-radius: 10px;
         font-weight: bold;
         font-size: 13px;
-        margin-left: 122px;
+        margin-left: 75px;
         background-color: #1d3557;
         color: #fff;
         border: none;
@@ -957,24 +974,25 @@
         height: 140%;
         display: flex;
         justify-content: space-evenly;
-        align-items: center;
+        align-items: stretch;
         background: #fff;
     }
 
     .wrapper {
         display: flex;
-        width: 80%;
-        justify-content: space-between;
+        width: 82%;
+        justify-content: space-around;
+        /* align-items: stretch; */
         flex-direction: column;
     }
 
     .card {
-        width: 280px;
-        height: 200px;
+        width: 274px;
+        height: 290px;
         border-radius: 10px;
         padding: 2rem 1rem;
         background: linear-gradient(to bottom, rgba(49, 48, 139, 0.507), rgba(30, 55, 138, 0.507));
-        ;
+        margin-bottom: 12px;
         position: relative;
         display: flex;
         align-items: flex-end;
@@ -1159,7 +1177,7 @@
         height: 250px;
         width: 160px;
         position: relative;
-        margin-left: 80px;
+        margin-left: 50px;
     }
 
     .iphone-img-2 {
