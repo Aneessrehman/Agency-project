@@ -27,7 +27,7 @@ a:hover {
 }
 
 .checkbt {
-    font-size: 38px;
+    font-size: 35px;
     color: white;
     float: right;
     line-height: 80px;
@@ -264,13 +264,13 @@ nav ul {
 
 @media screen and (max-width: 600px) {
 
-    /* .banner {
+    .banner {
         width: 100%;
         height: 95vh;
         background-image: linear-gradient(to right, #31308b, #1e378a);
         background-size: cover;
         background-position: center;
-    } */
+    }
 
 
     /* .navbar {
@@ -1277,7 +1277,7 @@ nav ul {
     .section-broadcast {
         margin-top: 100px;
         /* margin: 60px; */
-        height: 105vh;
+        height: 100vh;
         width: 100%;
         background-image: linear-gradient(to right, #14125c, #2c4494);
         position: absolute;
