@@ -1090,7 +1090,7 @@ nav ul {
 
     .section-project__cards {
         /* chnge */
-        width: 100%;
+        width: 80%;
         height: 140%;
         display: flex;
         justify-content: space-evenly;
@@ -1277,7 +1277,7 @@ nav ul {
     .section-broadcast {
         margin-top: 100px;
         /* margin: 60px; */
-        height: 125vh;
+        height: 105vh;
         width: 100%;
         background-image: linear-gradient(to right, #14125c, #2c4494);
         position: absolute;
@@ -1365,7 +1365,7 @@ nav ul {
 
 .section-footer {
     /* height: 100vh; */
-    padding: 50rem 0;
+    padding: 56rem 0;
     padding-bottom: 0;
 }
 
