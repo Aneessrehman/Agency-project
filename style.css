@@ -27,11 +27,11 @@ a:hover {
 }
 
 .checkbt {
-    font-size: 25px;
+    font-size: 38px;
     color: white;
     float: right;
     line-height: 80px;
-    margin-right: 45px;
+    margin-right: 40px;
     cursor: pointer;
     display: none;
 }
