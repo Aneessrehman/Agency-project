@@ -132,6 +132,14 @@ img.logo {
     width: 115px;
     margin: .5rem;
     padding: 29px 40px;
+    position: relative;
+}
+
+h1.h1 {
+    margin-left: 45px;
+    margin-top: -40px;
+    font-size: 10px;
+    position: absolute;
 }
 
 .navbar-links ul {
@@ -360,6 +368,12 @@ img.logo {
         background-image: linear-gradient(to right, #31308b, #1e378a);
         background-size: cover;
         background-position: center;
+    }
+
+    h1.h1 {
+        margin-left: 56px;
+        margin-top: -40px;
+        font-size: 8px;
     }
 
     .btn-nav {
