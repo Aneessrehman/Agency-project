@@ -690,7 +690,7 @@ h4.h1 {
     .feature-box__text {
         font-family: "Montserrat", sans-serif;
         font-size: 13px;
-        font-weight: bold;
+        font-weight: lighter;
         line-height: 25px;
         color: gray;
     }
@@ -827,7 +827,7 @@ h4.h1 {
     .feat-text {
         font-family: "Montserrat", sans-serif;
         font-size: 13px;
-        font-weight: bold;
+        font-weight: 100;
         margin-bottom: 1.2rem;
         color: #6d6f72;
     }
@@ -1091,7 +1091,7 @@ h4.h1 {
     .project-text {
         font-family: "Montserrat", sans-serif;
         font-size: 13px;
-        font-weight: bold;
+        font-weight: 100;
         line-height: 30px;
         color: gray;
     }
@@ -1273,7 +1273,7 @@ h4.h1 {
 .broadcast-p {
     font-family: "Montserrat", sans-serif;
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 100;
     line-height: 30px;
     color: #fff;
     margin-bottom: 20px;
@@ -1359,7 +1359,7 @@ h4.h1 {
     .broadcast-p {
         font-family: "Montserrat", sans-serif;
         font-size: 15px;
-        font-weight: bold;
+        font-weight: 100;
         line-height: 25px;
         color: #fff;
         margin-bottom: 20px;
