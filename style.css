@@ -135,7 +135,7 @@ img.logo {
     position: relative;
 }
 
-h1.h1 {
+h4.h1 {
     margin-left: 45px;
     margin-top: -40px;
     font-size: 10px;
@@ -316,7 +316,7 @@ h1.h1 {
     margin: 20px auto;
     font-size: 22px;
     line-height: 30px;
-    font-weight: lighter;
+    font-weight: 100;
 }
 
 .heading {
@@ -370,7 +370,7 @@ h1.h1 {
         background-position: center;
     }
 
-    h1.h1 {
+    h4.h1 {
         margin-left: 56px;
         margin-top: -40px;
         font-size: 8px;
@@ -604,7 +604,7 @@ h1.h1 {
 .feature-box__text {
     font-family: "Montserrat", sans-serif;
     font-size: 13px;
-    font-weight: bold;
+    font-weight: lighter;
     line-height: 25px;
     color: gray;
 }
@@ -760,7 +760,7 @@ h1.h1 {
 .feat-text {
     font-family: "Montserrat", sans-serif;
     font-size: 15px;
-    font-weight: bold;
+    font-weight: 100;
     margin-bottom: 1.2rem;
     color: #6d6f72;
 }
@@ -934,7 +934,7 @@ h1.h1 {
 .project-text {
     font-family: "Montserrat", sans-serif;
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 100;
     line-height: 30px;
     color: gray;
 }
