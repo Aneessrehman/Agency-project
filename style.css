@@ -958,7 +958,7 @@ h4.h1 {
 
     .wrapper {
         display: flex;
-        width: 83%;
+        width: 85%;
         justify-content: space-around;
         /* align-items: stretch; */
         flex-direction: column;
