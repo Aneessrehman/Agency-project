@@ -512,7 +512,7 @@ h4.h1 {
     .feature-box__icon {
         font-size: 10rem;
         margin-bottom: .5rem;
-        margin-left: 70px;
+        margin-left: 65px;
         border-radius: 10px;
     }
 
@@ -657,6 +657,7 @@ h4.h1 {
         font-family: "Montserrat", sans-serif;
         font-size: 13px;
         font-weight: bold;
+        line-height: 1.5;
         margin-bottom: 1.2rem;
         color: #6d6f72;
     }
@@ -909,7 +910,7 @@ h4.h1 {
         flex-direction: column;
         /* margin: 55px; */
         margin-top: 105px;
-        margin-left: 50px;
+        margin-left: 48px;
         margin-bottom: 10px;
     }
 
@@ -957,7 +958,7 @@ h4.h1 {
 
     .wrapper {
         display: flex;
-        width: 80%;
+        width: 83%;
         justify-content: space-around;
         /* align-items: stretch; */
         flex-direction: column;
